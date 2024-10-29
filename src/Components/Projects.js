@@ -1,9 +1,9 @@
 import React from 'react';
 import ProjectBox from './ProjectBox';
-import shake from '../images/Screenshot (295).png';
-import laimonah from '../images/Screenshot (296).png';
-import stone from '../images/Screenshot (297).png';
-import rent from '../images/Screenshot (298).png';
+import shake from '../images/Screenshot 2024-10-29 195532.png';
+import laimonah from '../images/Screenshot 2024-10-29 200446.png';
+import stone from '../images/Screenshot 2024-10-29 200052.png';
+import rent from '../images/Screenshot 2024-10-29 195600.png';
 
 const Projects = () => {
   return (
